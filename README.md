@@ -6,11 +6,12 @@ This python script shows some statistics for programmers in Greece for the year 
 Data was provided by [SocialNerds](https://www.youtube.com/@SocialNerdsGR).
 
 ### 2. Corpus analysis:
-This python script shows statistics for some of the built-in [nltk](https://www.nltk.org/) text books:\
-i. Lexical richness and percentage of text taken up by various words.\
-ii. Stemming vs Lemmatization.\
-iii. str.split() vs nltk.tokenize().\
-iv. Frequency Distributions.
+This python script shows statistics for some of the built-in [nltk](https://www.nltk.org/) text books:
+
+- Lexical richness and percentage of text taken up by various words.
+- Stemming vs Lemmatization.
+- str.split() vs nltk.tokenize().
+- Frequency Distributions.
 
 This script was an assignment and it was made during my Information Retrieval course in University.
 
