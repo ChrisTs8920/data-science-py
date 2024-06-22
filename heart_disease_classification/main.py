@@ -74,7 +74,7 @@ def main():
     data = pd.read_csv(file_path)
 
     # VISUALIZATION
-    #visualizer(data)
+    visualizer(data)
 
     # CLASSIFICATION
     start = time.time()
