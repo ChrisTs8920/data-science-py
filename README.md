@@ -17,7 +17,7 @@ This project uses Machine Learning (classification algorithm - S.V.M. or Support
 
 Data was provided by [kaggle.com](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset/data).
 
-*This project was an assignment and was made during my Big Data course in University.*
+>*This project was an assignment and was made during my Big Data course in University.*
 
 ## Corpus analysis
 
@@ -28,7 +28,7 @@ This project plots statistics for some of the built-in [nltk](https://www.nltk.o
 - str.split() vs nltk.tokenize().
 - Frequency Distributions.
 
-*This project was an assignment and was made during my Information Retrieval course in University.*
+>*This project was an assignment and was made during my Information Retrieval course in University.*
 
 ## Salary Survey
 
@@ -39,9 +39,9 @@ This project plots some statistics for programmers in Greece for the year 2022:
 - Remote work (both, remote, on-site)
 - Median wage
 
-Data was provided by [SocialNerds](https://www.youtube.com/@SocialNerdsGR).
+>Data was provided by [SocialNerds](https://www.youtube.com/@SocialNerdsGR).
 
 ## How to run
 
 1. Data file needs to be in the same directory as script file.
-2. Execute \<filename>.py.
+2. Execute ```<filename>.py```.
